@@ -21,7 +21,7 @@ When you're done editing this file, save it, commit it, and push it to your "ass
     // Constant: MY_AWESOME_CONSTANT
 ```
 
-`path/to/file.php:42`
+`path/to/file.php:42`                                 
 ```php
     $name = do_something_amazing() + 1;
     // Variable: $name
@@ -31,3 +31,25 @@ When you're done editing this file, save it, commit it, and push it to your "ass
 
 ## Now get to it!
 
+        // Get timestamp for the current time
+        $this->_now = time();
+
+//Variable: $this
+//Compound Literal: = array()
+
+            // Set thumbnail y offset
+            $y = ceil(($originalHeight - $height) / 2);
+
+//Function: ceil((SoriginalHeight - Sheight_ / 2)
+//Operator: (SoriginalHeight - Sheight_ / 2)
+//Constant: Sheight_
+
+        // Create new array of just the keys and sort it
+        $keys = array_keys($array);
+
+//Constant: array_keys($array)
+
+                // Calculate starting image
+                $firstElement = ($currentPage - 1) * $resultsPerPage;
+                
+  //Operator: (@currentPage - 1) * $resultsPerPage              
